@@ -1,0 +1,39 @@
+ground truth: [1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+
+probability result for layer of 250 neurons
+[[7.96258897e-13 5.07085538e-06 1.09504089e-07 1.74108319e-01
+  7.73218200e-13 4.33168518e-34 1.47117814e-01 3.44989732e-15
+  9.84174832e-01 2.82480584e-09]]
+
+binary result for layer of 250 neurons
+[[0., 0., 0., 0., 0., 0., 0., 0., 1., 0.]]
+
+accuracy result for layer of 250 neurons:
+40%
+
+
+
+
+probability result for layer of 500 neurons
+[[9.99999997e-01 3.12256353e-14 1.00000000e+00 1.50151626e-23
+  1.00000000e+00 1.10860741e-06 1.00000000e+00 4.46865026e-36
+  1.00000000e+00 1.00000000e+00]]
+
+binary result for layer of 500 neurons
+[[1. 0. 1. 0. 1. 0. 1. 0. 1. 1.]]
+
+accuracy result for layer of 500 neurons:
+40%
+
+
+
+probability result for layer of 1000 neurons
+[[2.47667760e-09 9.99499761e-01 1.00000000e+00 7.38954563e-41
+  9.89073402e-01 9.64289540e-01 6.64197595e-06 1.00000000e+00
+  9.99997632e-01 1.00000000e+00]]
+
+binary result for layer of 1000 neurons
+[[0. 1. 1. 0. 1. 1. 0. 1. 1. 1.]]
+
+accuracy result for layer of 1000 neurons:
+40%
